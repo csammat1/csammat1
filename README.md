@@ -4,6 +4,9 @@
 ### Current projects
 [MineSweeper in cpp] https://github.com/csammat1/mindsweeper
 
+### Contact
+Corey Sammataro - csammat1@binghamton.edu
+
 <!--
 **csammat1/csammat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
