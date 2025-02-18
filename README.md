@@ -1,6 +1,5 @@
-# Corey Sammataro
-## CS Undergrad
-### Binghamton University
+## Corey Sammataro, CS Undergraduate - Binghamton University
+
 
 <!--
 **csammat1/csammat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
