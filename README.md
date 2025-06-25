@@ -5,7 +5,7 @@
 [MineSweeper in cpp] https://github.com/csammat1/mindsweeper
 
 ### Completed Project
-[Conway's Game of Life simulation in cpp] https://github.com/csammat1/Conway-s-Game-of-Life
+[Conway's Game of Life simulation in cpp] https://github.com/csammat1/Conway-s-Game-of-Life - https://replit.com/@CoreySammataro1/Game-of-Life?s=app
 ### Contact
 Corey Sammataro - csammat1@binghamton.edu
 
